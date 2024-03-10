@@ -23,3 +23,5 @@
 
 - terraform destroy
     - Destroys resources
+    - ![image](https://github.com/niravmsoni/terraform-commands-cheatsheet/assets/6556021/b2f80a52-d978-4c75-b7c8-27ad113d1a33)
+
